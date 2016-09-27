@@ -1,0 +1,4 @@
+{
+	"shell_cmd": ["~/Documents/f16/pl/projects/l_interpreter", "$file"],
+	"selector": "source.L"
+}
